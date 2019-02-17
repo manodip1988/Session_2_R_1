@@ -1,0 +1,32 @@
+1. How many ways are there to call a function in R?
+
+Ans- There are 3 ways to call a function in R,
+	a) Calling a function with Name.
+	b) Calling a function by position.
+	C) Calling a function without argument.
+
+2. Is the below statement true?
+
+•  The lazy evaluation of a function means, the argument is evaluated only if it is evaluated
+   only if it is used inside the body of the function.
+
+Ans - True, Arguments to functions are evaluated lazily, which means so they are evaluated only 
+when needed by the function body.
+
+
+3. Mention true or false for below statements:
+a. Insights driven from descriptive analytics is not meaningful.
+b. The number of values in each Elements of a list, should be equal.
+c. The datasets are not stored in memory of the computer using R.
+d. Data frames and matrices are two dimensional however the array is multidimensional.
+
+Ans- a) False, Descriptive Analytics is an insight into the past,it allows us to learn from 
+	our past and to understand how they might influence future outcomes. The main goal is to find 
+	out the reasons behind previous success or failure in the past, hence insights driven from descriptive 
+	analysis is crucial and meaningful.
+	
+     b) False, There is no point of equal length in a list. We can store matrix, dataframe anything inside a list.
+     
+     c) False, Everythin in R is done in memory.
+     
+     d) True,
